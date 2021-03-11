@@ -14,30 +14,11 @@
     width: 100%;
 }
 
-/* unvisited link */
-a:link {
-color: red;
-}
-
-/* visited link */
-a:visited {
-  color: rgb(196, 183, 7);
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: black;
-}
-
 a {
   text-decoration: none;
   display: inline-block;
   padding: 8px 16px;
+  color: yellow;
 }
 
 a:hover {

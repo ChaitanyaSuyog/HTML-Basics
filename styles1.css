@@ -12,12 +12,7 @@ a {
   text-decoration: none;
   display: inline-block;
   padding: 8px 16px;
-}
-
-a:link {
-  color:yellow;
-  background-color: transparent;
-  text-decoration: none;
+  color: yellow;
 }
 
 a:hover {
