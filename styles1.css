@@ -14,6 +14,12 @@ a {
   padding: 8px 16px;
 }
 
+a:link {
+  color:yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 a:hover {
   background-color: #ddd;
   color: black;
