@@ -31,6 +31,11 @@ a:hover {
   color: black;
 }
 
+.next {
+  background-color: #4CAF50;
+  color: white;
+}
+
 .round {
   border-radius: 50%;
 }
